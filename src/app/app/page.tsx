@@ -123,7 +123,7 @@ export default function AppPage() {
             <div className="flex items-center gap-2">
               <Building2 className="w-8 h-8 text-orange-500" />
               <span className="text-xl font-bold text-slate-900 hidden sm:inline">
-                Obra<span className="text-orange-500">Fácil</span>
+                Minha Obra <span className="text-orange-500">Pro</span>
               </span>
             </div>
           </div>
